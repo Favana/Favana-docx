@@ -1,0 +1,1 @@
+export { default as Docx} from './classes/Docx';
