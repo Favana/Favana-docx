@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="adef1ee5-6f17-4c32-af35-db3feb6bd639" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -49,8 +50,8 @@
       <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="1" selection-end-line="7" />
+            <state relative-caret-position="-690">
+              <caret line="43" column="18" selection-end-line="102" />
             </state>
           </provider>
         </entry>
@@ -135,7 +136,7 @@
       <path value="$PROJECT_DIR$/package.json" />
     </packageJsonPaths>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="273" />
     <option name="width" value="1100" />
     <option name="height" value="728" />
@@ -252,7 +253,7 @@
       <workItem from="1535792752580" duration="3462000" />
       <workItem from="1535805770907" duration="6051000" />
       <workItem from="1535819157076" duration="261000" />
-      <workItem from="1535869978597" duration="4501000" />
+      <workItem from="1535869978597" duration="5445000" />
     </task>
     <servers />
   </component>
@@ -289,7 +290,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="186881000" />
+    <option name="totallyTimeSpent" value="187825000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -705,8 +706,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="1" selection-end-line="7" />
+        <state relative-caret-position="-690">
+          <caret line="43" column="18" selection-end-line="102" />
         </state>
       </provider>
     </entry>

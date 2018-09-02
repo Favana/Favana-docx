@@ -5,7 +5,7 @@ Also the output is a stream and file, not dependent on any output tool.
 This module should work on any environment that supports Node.js 10.3.0 or later including Windows.
 
 This module generate Word (.docx) document and stream.
-# Feature :
+## Feature : ##
 
 - Generating Microsoft Word document (.docx file):
   - Create Word document.
@@ -20,7 +20,7 @@ This module generate Word (.docx) document and stream.
   - You can generate word document in the format pdf.
 
 
-# Installation :
+## Installation : ##
 
  via Git:
 
@@ -41,7 +41,7 @@ This module is depending on:
 - express
 
 
-# Public API :
+## Public API : ##
 
    - generate word document (.docx file):
         ```js
