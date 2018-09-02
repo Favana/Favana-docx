@@ -1,4 +1,4 @@
-# Favana-docx ![npm version](https://badge.fury.io/js/favana-docx.svg)
+# favana-docx ![npm version](https://badge.fury.io/js/favana-docx.svg)
 
 This module can generate Office Open XML files for Microsoft Office 2007 and later.
 Also the output is a stream and file, not dependent on any output tool.
